@@ -1,0 +1,11 @@
+Model Information:
+* title:	St Dunstan In The West Interior
+* source:	https://sketchfab.com/3d-models/st-dunstan-in-the-west-interior-0224645af27441d788ace5294b1e9a0f
+* author:	artfletch (https://sketchfab.com/artfletch)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "St Dunstan In The West Interior" (https://sketchfab.com/3d-models/st-dunstan-in-the-west-interior-0224645af27441d788ace5294b1e9a0f) by artfletch (https://sketchfab.com/artfletch) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
