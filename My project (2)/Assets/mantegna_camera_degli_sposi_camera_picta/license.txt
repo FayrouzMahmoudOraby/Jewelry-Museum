@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mantegna, Camera degli Sposi (Camera picta)
+* source:	https://sketchfab.com/3d-models/mantegna-camera-degli-sposi-camera-picta-3481c0e518a44e839e6774118c0fe68f
+* author:	ZeuxisVR (https://sketchfab.com/Eric.Hupe)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mantegna, Camera degli Sposi (Camera picta)" (https://sketchfab.com/3d-models/mantegna-camera-degli-sposi-camera-picta-3481c0e518a44e839e6774118c0fe68f) by ZeuxisVR (https://sketchfab.com/Eric.Hupe) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
